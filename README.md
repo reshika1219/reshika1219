@@ -42,6 +42,6 @@ Tools:       RStudio | VS Code | MySQL | Eclipse IDE
 
 ### 🌐 Connect with Me
 
-<align="center"> 📬 Email: reshikaamarasinghe@gmail.com
+📬 Email: reshikaamarasinghe@gmail.com
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reshika1219&theme=radical" /> </p> <p align="center">✨ Built with curiosity, math, and markdown ✨</p>
