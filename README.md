@@ -33,6 +33,13 @@
 ### 🛠️ Tech Stack
 
 ```text
-Languages:   Python | SQL | Java | R
-Tools:       Jupyter | RStudio | VS Code | MySQL | Git
-Libraries:   pandas | NumPy | matplotlib | seaborn | scikit-learn | dplyr
+Languages:   Python | SQL | Java | R | C++
+Tools:       RStudio | VS Code | MySQL | Eclipse IDE
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reshika1219&show_icons=true&theme=radical" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=reshika1219&theme=radical&hide_border=false" width="47%"/> </p>
+🌐 Connect with Me
+
+📬 Email: reshikaamarasinghe@gmail.com
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reshika1219&theme=radical" /> </p>
+<p align="center">✨ Built with curiosity, math, and markdown ✨</p> ```
