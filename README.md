@@ -39,6 +39,7 @@ Tools:       RStudio | VS Code | MySQL | Eclipse IDE
 
 ### 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reshika1219&show_icons=true&theme=radical" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=reshika1219&theme=radical&hide_border=false" width="47%"/> </p>
+
 ### 🌐 Connect with Me
 
 📬 Email: reshikaamarasinghe@gmail.com
