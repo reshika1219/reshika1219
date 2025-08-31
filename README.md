@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 **Data Science Undergraduate**
-- 🧮 Strong foundation in **Probability**, and **Statistics**
+- 🧮 Strong foundation in **Probability**, **Statistics**, **Data Structures** and **Algorithms**
 - 🔍 Analytical thinker, more of a **mathematician** than a coder (for now 😉)
 - 🌱 Currently learning data analytics & statistical modeling
 
