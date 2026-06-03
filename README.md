@@ -14,10 +14,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reshika%20Amarasinghe-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshika-amarasinghe)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-reshika1219-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/reshika1219)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-reshikaamarasinghe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reshikaamarasinghe@gmail.com)&nbsp;
-![Location](https://img.shields.io/badge/📍-Malabe%2C%20Sri%20Lanka-6B7280?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reshika%20Amarasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshika-amarasinghe)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-reshika1219-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reshika1219)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-reshikaamarasinghe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshikaamarasinghe@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/📍-Malabe%2C%20Sri%20Lanka-6B7280?style=for-the-badge)]()
 
 </div>
 
