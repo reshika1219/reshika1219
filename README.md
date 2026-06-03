@@ -128,4 +128,5 @@ AWS · Microsoft Azure · Google Colab
   <img src="https://github-readme-stats.vercel.app/api?username=reshika1219&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshika1219&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reshika1219&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=1800 />
 </p>
