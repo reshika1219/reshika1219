@@ -1,26 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=500&color=F778BA&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reshika" alt="greeting" />
-</h1>
+# 👋 Hi, I'm Reshika Amarasinghe
 
-<h2 align="center">
-  <span style="color:#F778BA; font-size: 24px; font-weight: 600;">Reshika Amarasinghe</span>
-</h2>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=B366FF&center=true&vCenter=true&width=550&lines=📊+Data+Science+Undergraduate;🤖+ML+Engineer+Intern;🚀+Aspiring+Data+Scientist;✨+Turning+Data+into+Insights" alt="typing" />
-</h3>
+### Data Science Undergraduate · ML Engineer Intern · Aspiring Data Scientist
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reshika-amarasinghe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/reshika1219" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:reshika.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Turning Data into Insights | Geospatial Analytics & ML Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshika-amarasinghe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reshika1219)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshika.work@gmail.com)
+
+</div>
 
 ---
 
