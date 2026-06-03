@@ -22,8 +22,6 @@
 ## 💼 Professional Experience
 
 ### 🏛️ Sri Lanka Telecom PLC – ML Engineer Intern *(Dec 2025 – Jun 2026)*
-> The Embryo (R&D Division)
-
 - Built a **national-scale geospatial data pipeline** covering all Sri Lankan households and 141,000 fibre distribution points (FDPs) across ~14,000 hexagonal grid cells
 - Engineered **17 ML-ready features** from 51 raw variables for service expansion prediction models
 - Developed and validated ML models to **predict the top 100 priority hexagons** for SLT service rollout, generating customer mapping outputs, purchase predictions, and interactive visual reports
@@ -37,8 +35,6 @@
 ## 🚀 Featured Projects
 
 ### 🎓 Adaptive Personalised Learning Path Generation *(2026 – Present)*
-> Final Year Research Project — Supervised by SLIIT
-
 Designing an intelligent adaptive learning system using **Graph Neural Networks (GNNs)** and a **Neo4j knowledge graph** built from educational materials. Researching LLM-powered explainable recommendations to dynamically personalise student learning paths based on interactions and performance.
 
 ### ✈️ Airline Business Intelligence & Data Warehouse System *(2026)*
