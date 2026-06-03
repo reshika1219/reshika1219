@@ -1,294 +1,107 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F778BA&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Reshika+Amarasinghe;Data+Scientist+%26+ML+Engineer;Geospatial+Analytics+Enthusiast" alt="Typing SVG">
-</h1>
-
-<h3 align="center">
-  <span style="color:#F778BA;">📊 Data Science Undergraduate</span> • 
-  <span style="color:#00D4FF;">🤖 ML Engineer Intern</span> • 
-  <span style="color:#00FF88;">🚀 Aspiring Data Scientist</span>
-</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#F778BA;">Reshika Amarasinghe</span></h1>
+<h3 align="center">Data Science Undergraduate · ML Engineer Intern · Aspiring Data Scientist</h3>
 
 <p align="center">
-  <a href="#about-me">
-    <img alt="About" src="https://img.shields.io/badge/About-F778BA?style=for-the-badge">
-  </a>
-  <a href="#experience">
-    <img alt="Experience" src="https://img.shields.io/badge/Experience-00D4FF?style=for-the-badge">
-  </a>
-  <a href="#projects">
-    <img alt="Projects" src="https://img.shields.io/badge/Projects-00FF88?style=for-the-badge">
-  </a>
-  <a href="#tech-stack">
-    <img alt="Tech Stack" src="https://img.shields.io/badge/Tech%20Stack-FFB800?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  Turning complex data into actionable insights | Building intelligent systems | Exploring AI/ML frontiers
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Geospatial+Analytics+%26+Predictive+Modeling;Building+Intelligent+Systems" alt="Typing SVG">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-**🎓 Education**
-- 4th-Year BSc (Hons) Information Technology (Data Science) @ SLIIT
-- Strong foundation in **Probability**, **Statistics**, and **Spatial Analytics**
-- Naturally an **analytical thinker** with a math-first approach
-
-**💡 Passion Areas**
-- Machine Learning & Predictive Analytics
-- Geospatial Data & Location Intelligence
-- Information Retrieval & Data Mining
-- **Agentic AI Systems** & Multi-Agent Frameworks
-- **Graph Neural Networks** (GNNs) & Knowledge Graphs
-- **Large Language Models** (LLMs) & Adaptive Learning
-
-**🚀 Career Goal:** Data Scientist / ML Engineer / Research-oriented role with meaningful impact
+- 🎓 **4th-Year BSc (Hons) in Information Technology (Data Science)** @ SLIIT
+- 🏢 **ML Engineer Intern** @ Sri Lanka Telecom PLC — building national-scale geospatial data pipelines
+- 📊 Strong foundation in **Probability**, **Statistics**, and **Spatial Analytics**
+- 🔍 Naturally an **analytical thinker** with a math-first approach
+- 🤖 Passionate about **Machine Learning**, **Information Retrieval**, **Data Mining**, and **Agentic AI**
+- 🧪 Final-year researcher exploring **GNNs**, **Knowledge Graphs**, and **LLMs** for adaptive learning
+- 🚀 Eager to grow into a **Data Scientist / ML Engineer / Research-oriented role**
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏛️ **Sri Lanka Telecom PLC** – ML Engineer Intern
-**Dec 2025 – Jun 2026** | *Colombo, Sri Lanka*
+### 🏛️ Sri Lanka Telecom PLC – ML Engineer Intern *(Dec 2025 – Jun 2026)*
+- Built a **national-scale geospatial data pipeline** covering all Sri Lankan households and 141,000 fibre distribution points (FDPs) across ~14,000 hexagonal grid cells
+- Engineered **17 ML-ready features** from 51 raw variables for service expansion prediction models
+- Developed and validated ML models to **predict the top 100 priority hexagons** for SLT service rollout, generating customer mapping outputs, purchase predictions, and interactive visual reports
 
-Building national-scale geospatial intelligence for service expansion:
-- 🗺️ Engineered a **geospatial data pipeline** covering all Sri Lankan households and 141,000 fibre distribution points (FDPs)
-- 📊 Created **17 ML-ready features** from 51 raw variables using advanced spatial analytics
-- 🎯 Developed ML models to identify **top 100 priority expansion zones** with customer mapping and purchase predictions
-- 📈 Generated interactive visual reports for strategic decision-making
-
-**Tech:** Python, GeoPandas, Spatial Analytics, ML Models, Data Engineering
-
----
-
-### 🏷️ **Appen** – Data Labeler
-**Feb 2026 – May 2026** | *Remote*
-
-Supporting AI/ML model quality through structured data annotation:
-- 📹 Annotated video content pairs for the **Eco Pairwise EN Project** (TikTok partnership)
-- ✅ Applied consistent labeling guidelines to evaluate content quality
-- 🤖 Contributed to improving model alignment and output quality for large-scale systems
-
-**Tech:** Data Labeling, Quality Assurance, Content Analysis
+### 🏷️ Appen – Data Labeler *(Feb 2026 – May 2026)*
+- Contributed structured video content annotations for the **Eco Pairwise EN Project** (client: TikTok)
+- Applied consistent labeling guidelines to evaluate and rank video content pairs, supporting **model alignment and output quality** for large-scale AI/ML models
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 **Adaptive Personalised Learning Path Generation** *(2026 – Present)*
-**Research-focused Capstone Project**
+### 🎓 Adaptive Personalised Learning Path Generation *(2026 – Present)*
+Designing an intelligent adaptive learning system using **Graph Neural Networks (GNNs)** and a **Neo4j knowledge graph** built from educational materials. Researching LLM-powered explainable recommendations for personalized learning paths based on learner profiles and performance.
 
-Intelligent adaptive learning system using cutting-edge AI/ML:
-- 📚 **Graph Neural Networks (GNNs)** for concept relationship understanding
-- 🧠 **Neo4j Knowledge Graph** built from curated educational materials
-- 💡 **LLM-powered explainable recommendations** for personalized learning
-- 🎯 Adaptive paths based on learner profiles and performance metrics
+### ✈️ Airline Business Intelligence & Data Warehouse System *(2026)*
+Designed a **star schema data warehouse** with SSIS ETL pipelines, SCD Type 2, and accumulating fact tables. Built OLAP cubes and interactive **Power BI dashboards** with drill-down, slice/dice, and role-playing dimensions for comprehensive airline analytics.
 
-**Tech:** GNNs, Neo4j, LLMs, Python, Knowledge Graphs, TensorFlow
+### 🏫 Smart Campus Operations Hub *(2026)*
+Production-grade full-stack web app using **Java, Spring Boot, React, PostgreSQL, and TailwindCSS** to centralise campus facility management. Features: REST API with Onion Architecture, OAuth 2.0 authentication, real-time booking system, and admin dashboard.
 
----
+### 📊 Data Visualization & Comprehension Impact Study *(2026)*
+A/B testing study with **471 participants** using R and Tidyverse. Applied OLS/Logistic regression and ARIMA analysis to validate that clear visualisation improves comprehension accuracy by **over 30%**.
 
-### ✈️ **Airline Business Intelligence & Data Warehouse** *(2026)*
-**Enterprise Data Engineering**
+### 🧩 Agentic AI System *(Jun 2025 – Oct 2025)*
+Multi-agent problem-solving framework with a **Decision Gate** workflow and traceable **RAG retrieval (FAISS + BM25)**. Built with Python, React, Tailwind, MongoDB, and a Docling-based local knowledge extraction pipeline.
 
-Production-grade data warehouse architecture:
-- ⭐ **Star Schema** design with SSIS ETL pipelines
-- 📊 **OLAP Cubes** for multi-dimensional analysis & reporting
-- 📈 **Power BI Dashboards** with drill-down, slice/dice capabilities
-- 🔄 **SCD Type 2** for tracking dimension history
-- 📉 Accumulating fact tables for comprehensive analysis
+### 💳 Credit Card Customer Churn Prediction *(Jun 2025 – Oct 2025)*
+Predictive ML system on **10,000+ customer records** using XGBoost, LightGBM, and scikit-learn. Achieved **AUC > 0.99**; deployed as an interactive **Streamlit app** with feature-importance insights and explainability.
 
-**Tech:** SQL Server, SSIS, Power BI, Data Warehouse Design, SSAS
+### ♻️ Yakadabadu.lk – Scrap Collection & Recycling System *(Feb 2025 – Apr 2025)*
+MERN full-stack web app with **Google Maps real-time tracking**, a scoring algorithm for optimised route/pickup assignments, and auto-generated PDF pickup lists.
 
----
+### 📚 Research Topic Identification & Literature Review *(Jun 2025 – Oct 2025)*
+Reviewed five papers on **diffusion models**, produced a 34-page literature review and explainer video. Prototyped Python experiments on negative prompts and artifact behaviour.
 
-### 🏫 **Smart Campus Operations Hub** *(2026)*
-**Full-Stack Production Application**
+### 🥗 Diet Planning & Health Checkup System *(Feb 2024 – Apr 2024)*
+Automated diet recommendations and basic health monitoring using user data.
 
-Centralized campus facility management platform:
-- 🏗️ **Onion Architecture** REST API with Spring Boot
-- 🔐 **OAuth 2.0** authentication & role-based authorization
-- 🎨 **React + TailwindCSS** responsive, modern frontend
-- 🗄️ **PostgreSQL** relational database with optimized queries
-- 🔄 Real-time facility booking & status tracking
-
-**Tech:** Java, Spring Boot, React, PostgreSQL, TailwindCSS, REST API, OAuth
-
----
-
-### 📊 **Data Visualization & Comprehension Impact Study** *(2026)*
-**Research Study with Real-World Validation**
-
-A/B testing study measuring visualization effectiveness:
-- 👥 **471 participants** across experimental groups
-- 📈 **OLS/Logistic Regression & ARIMA** statistical analysis
-- ✨ Validated that clear visualization improves comprehension by **>30%**
-- 📋 Comprehensive statistical validation & hypothesis testing
-
-**Tech:** R, Tidyverse, Statistical Analysis, Experimental Design, ARIMA
-
----
-
-### 🤖 **Agentic AI Problem-Solving System** *(Jun – Oct 2025)*
-**Multi-Agent Intelligence Framework**
-
-Advanced AI orchestration with traceable reasoning:
-- 🔄 **Decision Gate workflow** for intelligent task routing
-- 📚 **RAG retrieval** using FAISS + BM25 hybrid search
-- 🧬 **Docling-based** local knowledge extraction from documents
-- 💾 MongoDB persistence with state management
-- 📊 Traceable execution paths for interpretability
-
-**Tech:** Python, React, Tailwind, MongoDB, RAG, FAISS, BM25, LLMs
-
----
-
-### 💳 **Credit Card Customer Churn Prediction** *(Jun – Oct 2025)*
-**High-Accuracy Predictive ML System**
-
-Customer churn forecasting with explainability:
-- 📊 **10,000+ customer records** analyzed
-- 🎯 **AUC > 0.99** using XGBoost & LightGBM ensemble
-- 📱 **Interactive Streamlit dashboard** for exploration
-- 📈 Feature importance analysis & business insights
-- 🔍 Interpretable predictions for stakeholder understanding
-
-**Tech:** Python, XGBoost, LightGBM, Scikit-learn, Streamlit, Pandas
-
----
-
-### ♻️ **Yakadabadu.lk – Smart Recycling System** *(Feb – Apr 2025)*
-**Full-Stack MERN Environmental Solution**
-
-Scrap collection & sustainable waste management platform:
-- 🗺️ **Google Maps real-time tracking** for pickup operations
-- 🧮 **Route optimization algorithm** for collection efficiency
-- 📄 **Auto-generated PDF reports** for logistics teams
-- 🎯 Scoring algorithm for priority assignment
-- ♻️ Real impact: Promoting sustainable waste management
-
-**Tech:** MERN Stack, Google Maps API, Route Optimization, PDF Generation
-
----
-
-### 📚 **Diffusion Models: Literature Review & Research** *(Jun – Oct 2025)*
-**In-Depth Research & Exploration**
-
-Comprehensive exploration of modern generative models:
-- 📖 **34-page literature review** spanning 5 key papers
-- 🎬 **Educational explainer video** for complex concepts
-- 🔬 Python prototyping of negative prompts & artifact behavior
-- 🎨 Deep understanding of diffusion mechanics & applications
-
-**Tech:** Research, Python, Generative AI, Literature Review
-
----
-
-### 🥗 **Diet Planning & Health Checkup System** *(Feb – Apr 2024)*
-Automated diet recommendations and basic health monitoring using personalized user data
-
-### 🚗 **Vehicle Service & Fuel Station Management** *(Jun – Oct 2024)*
-Platform for vehicle service bookings, fuel inventory management, and customer scheduling
+### 🚗 Vehicle Service & Fuel Station Management System *(Jun 2024 – Oct 2024)*
+Platform for vehicle service bookings, fuel inventory management, and customer scheduling.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 **Languages**
+### 🧑‍💻 Programming Languages
+```text
+Python · Java · R · JavaScript · SQL · PL/SQL · C · C++
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### 🐍 Python Libraries
+```text
+Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · TensorFlow
+GeoPandas · Fiona · Folium · Shapely · BeautifulSoup4
+XGBoost · LightGBM
+```
 
-### 🐍 **Python Data Science Ecosystem**
+### 🌐 Frameworks & Tools
+```text
+Spring Boot · React · Vite · MERN Stack · Streamlit
+VS Code · WEKA · Android Studio · Google Colab
+```
 
-| **Data Processing** | **Visualization** | **ML/DL** | **Geospatial** |
-|:--:|:--:|:--:|:--:|
-| Pandas | Matplotlib | Scikit-learn | GeoPandas |
-| NumPy | Seaborn | TensorFlow | Folium |
-| Polars | Plotly | PyTorch | Shapely |
-| | | XGBoost | Fiona |
-| | | LightGBM | Shapely |
+### 🗄️ Databases
+```text
+MySQL · MongoDB · PostgreSQL · Microsoft SQL Server
+```
 
-### 🌐 **Frameworks & Platforms**
+### 📦 Big Data
+```text
+Apache Spark · Apache Hive · Hadoop
+```
 
-**Backend:** Spring Boot, FastAPI, Node.js/Express  
-**Frontend:** React, Vite, TailwindCSS, Streamlit  
-**Data:** Apache Spark, Apache Hive, Hadoop, SSIS
+### 📊 BI & Analytics
+```text
+Power BI · SSAS · SSMS (SQL Server Management Studio)
+```
 
-### 🗄️ **Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-### 📊 **BI & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-SSAS · SSMS · Tableau
-
-### ☁️ **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### 🧰 **Development Tools**
-
-VS Code · Git · GitHub · Google Colab · WEKA · Android Studio · Jupyter Notebooks
-
----
-
-## 📈 Key Achievements
-
-| Metric | Achievement |
-|:------:|:-----------|
-| **ML Performance** | AUC > 0.99 on churn prediction |
-| **Research Impact** | 471 participants in visualization study |
-| **Data Scale** | 141,000+ geospatial data points processed |
-| **Geographic Coverage** | ~14,000 hexagonal grid cells analyzed |
-| **Feature Engineering** | 17 ML-ready features from 51 raw variables |
-| **Published Work** | 34-page literature review on diffusion models |
-
----
-
-## 🎯 What I'm Looking For
-
-✨ **Challenging problems** in data science, ML, and AI  
-🔬 **Research opportunities** in LLMs, GNNs, and Knowledge Graphs  
-🤝 **Collaborative projects** with real-world impact  
-📚 **Continuous learning** in emerging technologies  
-🌍 **Meaningful work** in sustainability & social impact
-
----
-
-## 📬 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/reshika-amarasinghe">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:reshika@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/reshika1219">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-<div align="center">
-  <p><i>Always eager to learn, grow, and collaborate on impactful projects.</i></p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=reshika1219&style=flat-square&color=F778BA" alt="Profile Views">
-  </p>
-</div>
+### ☁️ Cloud & Platforms
+```text
+AWS · Microsoft Azure · Google Colab
+```
