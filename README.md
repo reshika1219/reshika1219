@@ -124,18 +124,6 @@ AWS · Microsoft Azure · Google Colab
 
 ---
 
-## 📬 Connect With Me
-
-<p align="left">
-  <a href="mailto:reshikaamarasinghe@gmail.com"><img src="https://img.shields.io/badge/Gmail-reshikaamarasinghe@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/reshika-amarasinghe"><img src="https://img.shields.io/badge/LinkedIn-reshika--amarasinghe-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/reshika1219"><img src="https://img.shields.io/badge/GitHub-reshika1219-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reshika1219&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
   &nbsp;
