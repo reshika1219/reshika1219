@@ -105,27 +105,3 @@ Power BI · SSAS · SSMS (SQL Server Management Studio)
 ```text
 AWS · Microsoft Azure · Google Colab
 ```
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🟧 **AWS SimuLearn** – Cloud Practitioner (11 certificates)
-- 🔵 **Microsoft Learn** – Azure Cloud Services (8 certificates)
-- 🍃 **MongoDB** – Data Modeling Path Certificate
-- 📘 **IBM** – Introduction to Data Analytics *(in progress)*
-- 🎓 Selected for admission to BSc (Hons) in Data Science, University of Sabaragamuwa
-- 🥇 Annual School Prize Giving (2016) – Excellence in Mathematics & Science
-- 🧮 **Mathematics Olympiad (2017)** – Provincial level participant
-- 🗣️ **Provincial English Day Competition (2017)** – Dictation
-- 📐 **IXL Learning** – 5 Certificates of Excellence; 30,000+ problems solved (Grades 6–10)
-- 🎮 **1st Runners-up** – Free Fire, Renaissance Season 4 Gaming Tournament, SLIIT
-- 🎮 **Semi-finalists** – Call of Duty 4, Inter-University Esports Championship (2023)
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=reshika1219&theme=rose_pine&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshika1219&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
-</p>
