@@ -15,10 +15,11 @@
       <br/>
       <sub><b>ABOUT</b></sub>
       <br/><br/>
-      Fourth-year <b>Data Science</b> undergraduate at <b>SLIIT</b>.<br/>
-      I build ML systems that hold up in production, from national-scale geospatial pipelines at <b>Sri Lanka Telecom</b><br/>
-      to multi-agent LLM systems with traceable retrieval.<br/>
-      My research asks how <b>GNNs, knowledge graphs and LLMs</b> can explain themselves to learners, and prove it.
+      Fourth-year <b>Data Science</b> undergraduate at <b>SLIIT</b> with a <b>3.37/4.0</b> CGPA.<br/>
+      I build production-minded systems, from national-scale geospatial pipelines at <b>Sri Lanka Telecom</b><br/>
+      to full-stack platforms and data workflows shaped by real operational needs.<br/>
+      My research combines <b>pedagogy-typed knowledge graphs, GNN learner modelling</b> and verified explanations<br/>
+      to generate personalised learning paths that respect prerequisites and a learner's current ability.
       <br/><br/>
     </td>
   </tr>
@@ -33,6 +34,21 @@
 <img src="assets/work.svg" alt="Selected work" width="100%"/>
 
 <br/><br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="800">
+      <sub><b>RESEARCH</b></sub>
+      <br/><br/>
+      A neuro-symbolic middleware framework for adaptive learning: a shared knowledge graph<br/>
+      models concepts and pedagogy, while a GNN estimates mastery and uncertainty.<br/>
+      A typed symbolic critic verifies LLM-generated paths, and Bloom-level-aware checks<br/>
+      validate explanations for both factual entailment and cognitive appropriateness.
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <img src="assets/timeline.svg" alt="Trajectory" width="100%"/>
 
