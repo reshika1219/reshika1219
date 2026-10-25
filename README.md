@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/reshika-amarasinghe"><img src="assets/linkedin.svg" alt="LinkedIn" width="190"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:reshikaamarasinghe@gmail.com"><img src="assets/email.svg" alt="Email" width="190"/></a>
+<a href="https://linkedin.com/in/reshika-amarasinghe"><img src="assets/linkedin.svg" alt="LinkedIn" width="230"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:reshikaamarasinghe@gmail.com"><img src="assets/email.svg" alt="Email" width="290"/></a>
 
 <br/>
 
