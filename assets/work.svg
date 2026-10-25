@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="754" viewBox="0 0 1000 754" role="img"><style>.t{opacity:0;animation:f .9s ease forwards}
+@keyframes f{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}</style><rect width="1000" height="754" fill="#0b0b0d"/>
+<rect x="0.5" y="0.5" width="999" height="753" fill="none" stroke="#26262b"/>
+<text x="40" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="7" fill="#e8d9b0">SELECTED WORK</text>
+<text x="40" y="72" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="3" fill="#8a8a8f">AN INDEX, NOT A PORTFOLIO</text>
+<g class="t" style="animation-delay:0.00s">
+<line x1="40" y1="90" x2="960" y2="90" stroke="#26262b"/>
+<text x="40" y="140" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9b37e" fill-opacity="0.85">01</text>
+<text x="110" y="124" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d9b0">Pedagogy-Typed Knowledge Graphs</text>
+<text x="110" y="146" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">Final-year research. GNN learner modelling, with LLM explanations</text>
+<text x="110" y="162" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">verified claim by claim against a knowledge graph.</text>
+<text x="960" y="126" text-anchor="end" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#c9b37e">GNN · KNOWLEDGE GRAPH · LLM</text>
+</g><g class="t" style="animation-delay:0.12s">
+<line x1="40" y1="182" x2="960" y2="182" stroke="#26262b"/>
+<text x="40" y="232" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9b37e" fill-opacity="0.85">02</text>
+<text x="110" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d9b0">SLT Geospatial Pipeline</text>
+<text x="110" y="238" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">141,000 fibre points across ~14,000 hexagons. 51 raw variables engineered</text>
+<text x="110" y="254" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">into 17 features to rank the top 100 expansion sites.</text>
+<text x="960" y="218" text-anchor="end" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#c9b37e">GEOPANDAS · ML</text>
+</g><g class="t" style="animation-delay:0.24s">
+<line x1="40" y1="274" x2="960" y2="274" stroke="#26262b"/>
+<text x="40" y="324" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9b37e" fill-opacity="0.85">03</text>
+<text x="110" y="308" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d9b0">Agentic AI System</text>
+<text x="110" y="330" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">Two collaborating agents, a decision gate and traceable</text>
+<text x="110" y="346" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">RAG retrieval with FAISS and BM25.</text>
+<text x="960" y="310" text-anchor="end" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#c9b37e">RAG · REACT · MONGODB</text>
+</g><g class="t" style="animation-delay:0.36s">
+<line x1="40" y1="366" x2="960" y2="366" stroke="#26262b"/>
+<text x="40" y="416" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9b37e" fill-opacity="0.85">04</text>
+<text x="110" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d9b0">Smart Campus Operations Hub</text>
+<text x="110" y="422" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">Full-stack platform with OAuth 2.0, JWT, QR check-in and</text>
+<text x="110" y="438" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">SLA-tracked incident ticketing.</text>
+<text x="960" y="402" text-anchor="end" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#c9b37e">SPRING BOOT · REACT</text>
+</g><g class="t" style="animation-delay:0.48s">
+<line x1="40" y1="458" x2="960" y2="458" stroke="#26262b"/>
+<text x="40" y="508" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9b37e" fill-opacity="0.85">05</text>
+<text x="110" y="492" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d9b0">Visualization &amp; Comprehension Study</text>
+<text x="110" y="514" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">471-participant A/B study. Clear charts lifted comprehension</text>
+<text x="110" y="530" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">accuracy by more than 10x.</text>
+<text x="960" y="494" text-anchor="end" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#c9b37e">R · BAYESIAN</text>
+</g><g class="t" style="animation-delay:0.60s">
+<line x1="40" y1="550" x2="960" y2="550" stroke="#26262b"/>
+<text x="40" y="600" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9b37e" fill-opacity="0.85">06</text>
+<text x="110" y="584" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d9b0">Churn Prediction</text>
+<text x="110" y="606" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">XGBoost at AUC above 0.99, shipped as an interpretable</text>
+<text x="110" y="622" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">Streamlit app.</text>
+<text x="960" y="586" text-anchor="end" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#c9b37e">XGBOOST · STREAMLIT</text>
+</g><g class="t" style="animation-delay:0.72s">
+<line x1="40" y1="642" x2="960" y2="642" stroke="#26262b"/>
+<text x="40" y="692" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#c9b37e" fill-opacity="0.85">07</text>
+<text x="110" y="676" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#e8d9b0">Airline BI &amp; Data Warehouse</text>
+<text x="110" y="698" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">Star schema, SCD Type 2, SSAS cubes and Power BI</text>
+<text x="110" y="714" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8a8a8f">drill-through dashboards.</text>
+<text x="960" y="678" text-anchor="end" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#c9b37e">SQL SERVER · POWER BI</text>
+</g><line x1="40" y1="734" x2="960" y2="734" stroke="#26262b"/></svg>
