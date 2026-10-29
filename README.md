@@ -2,10 +2,6 @@
 
 <img src="assets/header.svg" alt="Reshika Amarasinghe" width="100%"/>
 
-<br/><br/>
-
-<a href="https://linkedin.com/in/reshika-amarasinghe"><img src="assets/linkedin.svg" alt="LinkedIn" width="140"/></a><img src="assets/dot.svg" alt="" width="20"/><a href="mailto:reshikaamarasinghe@gmail.com"><img src="assets/email.svg" alt="Email" width="140"/></a>
-
 <br/>
 
 <img src="assets/about.svg" alt="About" width="100%"/>
