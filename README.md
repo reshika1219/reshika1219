@@ -1,49 +1,23 @@
-# Reshika<br/>Amarasinghe
+<img src="https://raw.githubusercontent.com/reshika1219/reshika1219/main/assets/hero.svg" alt="Reshika Amarasinghe. Data Science, Geospatial Analytics, Verified AI." width="100%"/>
 
-**Data Science&emsp;/&emsp;Geospatial Analytics&emsp;/&emsp;Verified AI**<br/>
-Fourth-year undergraduate, SLIIT, Sri Lanka.<br/>
-I build systems that survive contact with reality.
+I build systems that survive contact with reality. Fourth-year Data Science undergraduate at SLIIT, working on problems shaped by real operational needs.
 
-<br/>
-
-## 141,000
-
-Fibre points across ~14,000 hexagons
-
-## 51 → 17
-
-Raw variables engineered into features
-
-## 471
-
-Participants in a visualization A/B study
-
-## &gt;0.99
-
-AUC on churn prediction
+<img src="https://raw.githubusercontent.com/reshika1219/reshika1219/main/assets/stats.svg" alt="141,000 fibre points across ~14,000 hexagons. 51 raw variables engineered into 17 features. 471 participants in a visualization A/B study. AUC above 0.99 on churn prediction." width="100%"/>
 
 <br/>
 
-## 01&emsp;Research
+<img src="https://raw.githubusercontent.com/reshika1219/reshika1219/main/assets/section-01.svg" alt="01 Research" width="100%"/>
 
-**Neuro-symbolic middleware for adaptive learning.**<br/>
-An LLM proposes a learning path. A symbolic critic checks it against a typed knowledge graph, claim by claim, and rejects anything that skips a prerequisite.
+**Neuro-symbolic middleware for adaptive learning.** An LLM proposes a learning path. A symbolic critic checks it against a typed knowledge graph, claim by claim, and rejects anything that skips a prerequisite.
 
-**1**&emsp;**Knowledge Graph**<br/>
-Concepts and pedagogy, typed.
-
-**2**&emsp;**GNN Learner Model**<br/>
-Mastery and uncertainty for each learner.
-
-**3**&emsp;**LLM Learning Path**<br/>
-Generated, then challenged.
-
-**4**&emsp;**Symbolic Critic**<br/>
-Verifies every explanation twice: factual entailment against the graph, and fit to the learner's Bloom level. Rejects, then regenerates.
+**1**&emsp;**Knowledge Graph**: concepts and pedagogy, typed.<br/>
+**2**&emsp;**GNN Learner Model**: mastery and uncertainty for each learner.<br/>
+**3**&emsp;**LLM Learning Path**: generated, then challenged.<br/>
+**4**&emsp;**Symbolic Critic**: verifies every explanation twice, for factual entailment against the graph and for fit to the learner's Bloom level. Rejects, then regenerates.
 
 <br/>
 
-## 02&emsp;Selected work
+<img src="https://raw.githubusercontent.com/reshika1219/reshika1219/main/assets/section-02.svg" alt="02 Selected work" width="100%"/>
 
 **01**&emsp;**Pedagogy-Typed Knowledge Graphs**<br/>
 Final-year research. GNN learner modelling, with LLM explanations verified claim by claim against a knowledge graph.<br/>
@@ -75,7 +49,7 @@ Star schema, SCD Type 2, SSAS cubes and drill-through dashboards.<br/>
 
 <br/>
 
-## 03&emsp;Stack
+<img src="https://raw.githubusercontent.com/reshika1219/reshika1219/main/assets/section-03.svg" alt="03 Stack" width="100%"/>
 
 <sub>LANGUAGES</sub><br/>
 <img src="https://skillicons.dev/icons?i=py,java,r,js,c,cpp&theme=dark" height="40"/><br/>
@@ -99,7 +73,7 @@ Star schema, SCD Type 2, SSAS cubes and drill-through dashboards.<br/>
 
 <br/>
 
-## 04&emsp;Trajectory
+<img src="https://raw.githubusercontent.com/reshika1219/reshika1219/main/assets/section-04.svg" alt="04 Trajectory" width="100%"/>
 
 **2023**&emsp;SLIIT. BSc Data Science begins.<br/>
 **2025**&emsp;Agentic AI. Multi-agent RAG system.<br/>
